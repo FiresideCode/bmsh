@@ -1,0 +1,137 @@
+nav {
+	padding: 40px;
+	background-color: lightblue;
+	display: inline-block;
+	text-align: center;
+}
+
+nav a:hover {
+	text-decoration: none;
+}
+
+nav img {
+	position: relative;
+	
+}
+
+footer {
+	text-align: center;
+	background-color: #323335;
+	color: white;
+	padding: 10px;
+}
+
+.head {
+
+}
+
+.top{
+	background: #0e0e2f;
+	text-align:right;
+	padding: 12px;
+	font-size: 13px;
+}
+
+.top a{
+	color: yellow;
+}
+
+.top a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+
+#social{
+		text-align: center;
+		padding: 30px;
+		background-color: lightgray;
+		color: white;
+		margin: 0;
+		font-size: 50px;
+}
+
+#social a{
+	color: gray;
+}
+
+a {
+	text-decoration: none;
+	font-family: arial;
+	padding: 10px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+#sitemap {
+	background-color: #5a5c5e;
+	padding: 20px;
+}
+
+#resources {
+	padding: 40px;
+	width: 100%;
+	background-color: lightblue;
+	text-align: center;
+}
+
+.patients {
+	margin:30px;
+	display: inline-block;
+}
+
+button {
+	color: white;
+	background-color: green;
+	border-radius: 10px;
+	padding: 5px;
+	font-weight: bold;
+}
+
+#video {
+	padding: 20px;
+	background-color: pink;
+}
+
+.testimonial {
+	position: relative;
+	display: block;
+	margin: 10px;
+	width: 50%;
+}
+
+#sitemap {
+	color: white;
+	font-size: 13px;
+}
+
+.sitemap {
+	display: inline-block;
+	margin-left: 80px;
+	-webkit-column-rule: 1px solid #333;
+}
+
+ul {
+	list-style: none;
+}
+
+.sitemap ul {
+	line-height: 9em;
+	font-size: 1.3em;
+	-webkit-column-rule: 1px solid #333;
+	vertical-align: baseline;
+}
+
+#section {
+	text-align: center;
+	margin: 30px;
+}
+
+.content {
+	background-color: grey;
+	display: inline-block;
+	padding: 50px;
+	margin-left: 100px;
+}
